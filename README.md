@@ -20,4 +20,4 @@
 <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 
 </div><br/>
-Sou um estudante do Instituto UNUESC, sempre em busca de aprendizado e aperfeiçoamento. Tenho experiência em desenvolvimento web com HTML, CSS e JavaScript, além de trabalhar em projetos em C, como a criação de sistemas de gerenciamento. Adoro enfrentar desafios e encontrar soluções criativas e eficientes por meio da programação.
+Sou um estudante do Instituto UNOESC, sempre em busca de aprendizado e aperfeiçoamento. Tenho experiência em desenvolvimento web com HTML, CSS e JavaScript, além de trabalhar em projetos em C, como a criação de sistemas de gerenciamento. Adoro enfrentar desafios e encontrar soluções criativas e eficientes por meio da programação.
