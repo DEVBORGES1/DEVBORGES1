@@ -6,7 +6,11 @@
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-53875a1a1/)
 [![Instagram](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/borges9x)
 
-![DEVBORGES GitHub stats](https://github-readme-stats.vercel.app/api?username=DEVBORGES1&show_icons=true&theme=radical)
+<div>
+  <a href="https://github.com/DEVBORGES1">
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=DEVBORGES1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVBORGES1&layout=compact&langs_count=6&theme=radical"/>
+</div>
 
 ## Tecnologias que eu uso no meu dia a dia
 
