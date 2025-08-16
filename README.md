@@ -7,7 +7,10 @@
 [![Instagram](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/borges9x)
 
 ![DEVBORGES GitHub stats](https://github-readme-stats.vercel.app/api?username=DEVBORGES1&show_icons=true&theme=radical)
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="UNITY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unity/unity-original.svg">
+  <img align="center" alt="CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg">
+</div>
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display:inline_block"><br/>
