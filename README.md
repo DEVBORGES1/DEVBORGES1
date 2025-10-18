@@ -25,4 +25,5 @@
 
 </div><br/>
 Sou um estudante do Instituto UNOESC, sempre em busca de aprendizado e aperfeiçoamento. Tenho experiência em desenvolvimento web com React, Node, MySQL, C#, PY e JavaScript, além de trabalhar em projetos mais complexos em PY, atualmente me aperfeiçoando em machine learning e automatização com IA. Adoro enfrentar desafios e encontrar soluções criativas e eficientes por meio da programação.
+
 ![](https://64.media.tumblr.com/174efc47788507c5dbf84b597dddcee2/tumblr_o7b4bgHu6L1qciqqno3_640.gif)
