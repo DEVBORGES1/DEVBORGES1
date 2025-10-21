@@ -41,7 +41,7 @@
 
 ![](https://64.media.tumblr.com/174efc47788507c5dbf84b597dddcee2/tumblr_o7b4bgHu6L1qciqqno3_640.gif)
 
-<p align="center">
+<h3 align="center">
   Obrigado por visitar meu perfil!  
   Se gostou, não esquece de deixar uma ⭐ nos repositórios!
-</p>
+</h3>
