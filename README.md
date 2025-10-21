@@ -14,14 +14,20 @@
 
 ## Tecnologias que eu uso no meu dia a dia
 
-<div style="display:inline_block"><br/>
+<div style="display: inline-block"><br>
+  <img height="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
+  <img height="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>
+  <img height="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img height="65" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+  <img height="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img height="55" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+  <img height="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+  <img height="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img height="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img height="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"/>
   
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  
+</div>
 
 </div><br/>
 Sou um estudante do Instituto UNOESC, sempre em busca de aprendizado e aperfeiçoamento. Tenho experiência em desenvolvimento web com React, Node, MySQL, C#, PY e JavaScript, além de trabalhar em projetos mais complexos em PY, atualmente me aperfeiçoando em machine learning e automatização com IA. Adoro enfrentar desafios e encontrar soluções criativas e eficientes por meio da programação.
