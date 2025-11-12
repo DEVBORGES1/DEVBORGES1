@@ -1,5 +1,4 @@
-
-### Olá sou o João Vitor mas pode me chamar de Borges 👏
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=700&color=ad1700&vCenter=true&width=800&lines=Olá!+Eu+sou+João+Vitor+👋;Desenvolvedor+FullStack+;Voltado+a+Desenvolvimento+de+software+com+IA;Computer+Science+Student+💻)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsjvborges/)
 [![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JoVitr2)
