@@ -28,7 +28,8 @@
 
 <h1 align="center">Sobre Mim 🎓</h1>
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções reais. Trabalho com desenvolvimento web full stack, com foco em criar aplicações funcionais, limpas e eficientes. Tenho experiência em desenvolvimento web com React,       Node, MySQL, C#, PY e JavaScript, além de trabalhar em projetos mais complexos em PYTHON, PHP E JS, atualmente me aperfeiçoando em machine learning e automatização com IA. 
+  Software engineer - FullStack, com experiência na criação e manutenção de aplicações web escaláveis. Atuo com JavaScript, Node.js, React, PHP (Laravel), CSS e bancos de dados SQL Server e MySQL, participando de projetos desde a concepção até a implementação. Possuo familiaridade com AWS e forte interesse em arquitetura de sistemas, automação com IA, segurança da informação e soluções cloud-native orientadas à escalabilidade e performance.
+
 </p>
   <br/><br/>
 
