@@ -37,5 +37,5 @@
 
 <h3 align="center">
   Obrigado por visitar meu perfil!  
-  Se gostou, não esquece de deixar uma ⭐ nos repositórios!
+ 
 </h3>
