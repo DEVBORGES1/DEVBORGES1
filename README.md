@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://devborges.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-ad1700?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
-  <a href="https://www.linkedin.com/in/joao-vitor-53875a1a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/devborges-joaovitor/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/itsjvborges/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://x.com/JoVitr2"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
   <a href="https://www.twitch.tv/borges9x"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
@@ -108,7 +108,7 @@ Sou **Software Engineer Full Stack** e gosto de levar aplicações **do zero à 
 ---
 
 <p align="center">
-  💬 Aberto a oportunidades e parcerias. Me chama no <a href="https://www.linkedin.com/in/joao-vitor-53875a1a1/">LinkedIn</a>!<br/>
+  💬 Aberto a oportunidades e parcerias. Me chama no <a href="https://www.linkedin.com/in/devborges-joaovitor/" target="_blank" rel="noopener noreferrer">LinkedIn</a>!<br/>
   ⭐ Se algum projeto te ajudou ou te interessou, deixa uma estrela!
 </p>
 
