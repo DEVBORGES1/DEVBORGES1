@@ -38,61 +38,18 @@ Sou **Software Engineer Full Stack** e gosto de levar aplicações **do zero à 
 
 ## 🚀 Projetos em destaque
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DEVBORGES1/MotorShop">🏍️ MotorShop</a></h3>
-      <p>Plataforma para lojas de motos usadas e seminovas: catálogo com busca e filtros, página da moto com simulador de financiamento, captação de leads via WhatsApp e painel administrativo. Feita para ser revendida a outras lojas só por configuração.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DEVBORGES1/Podium-Sports">🏆 Podium Sports</a></h3>
-      <p>Loja online de artigos esportivos com pedidos pelo WhatsApp e painel administrativo completo. API REST documentada com OpenAPI, autenticação por função e testes de API, de interface e E2E.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DEVBORGES1/SoS_delivery">🍔 S.O.S Delivery</a></h3>
-      <p>Site de pedidos de uma hamburgueria: o cliente monta o pedido no cardápio e finaliza pelo WhatsApp. A loja tem um painel com pedidos em tempo real, cardápio editável, promoções e horários.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DEVBORGES1/CleidesDiasWebSite">📸 Cleides Dias Fotografia</a></h3>
-      <p>Site profissional de uma fotógrafa com CMS próprio: ela gerencia pacotes, galeria, dúvidas e textos pelo painel, com prévia ao vivo. Imagens otimizadas via Cloudinary.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DEVBORGES1/Simulador-soc-local">🛡️ Simulador de SOC</a></h3>
-      <p>Simulador interativo de um pipeline de detecção de ameaças: firewall por assinatura para ataques óbvios e um LLM local analisando comportamentos furtivos, com animação em Canvas.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Canvas"/>
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DEVBORGES1/Video-analyzer">🎬 Video Analyzer</a></h3>
-      <p>Transforma vídeos do YouTube em texto: baixa o áudio, transcreve com a API da OpenAI e guarda as transcrições em banco de dados.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-      <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/DEVBORGES1/MotorShop"><img src="assets/projetos/motorshop.png" width="49%" alt="MotorShop: plataforma para lojas de motos"/></a>
+  <a href="https://github.com/DEVBORGES1/Podium-Sports"><img src="assets/projetos/podium.png" width="49%" alt="Podium Sports: loja online de artigos esportivos"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/DEVBORGES1/SoS_delivery"><img src="assets/projetos/sos.png" width="49%" alt="S.O.S Delivery: site de pedidos de hamburgueria"/></a>
+  <a href="https://github.com/DEVBORGES1/CleidesDiasWebSite"><img src="assets/projetos/cleides.png" width="49%" alt="Cleides Dias Fotografia: site com CMS próprio"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/DEVBORGES1/Simulador-soc-local"><img src="assets/projetos/soc.png" width="49%" alt="Simulador de SOC: pipeline de detecção de ameaças"/></a>
+  <a href="https://github.com/DEVBORGES1/Video-analyzer"><img src="assets/projetos/video.png" width="49%" alt="Video Analyzer: transcrição de vídeos com IA"/></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/DEVBORGES1?tab=repositories"><img src="https://img.shields.io/badge/Ver_todos_os_repositórios-ad1700?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios"/></a>
