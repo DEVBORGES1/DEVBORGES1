@@ -25,7 +25,7 @@ Sou **Software Engineer Full Stack** e gosto de levar aplicações **do zero à 
 - 📍 Videira, SC, Brasil
 - 🎓 Ciência da Computação na **UNOESC**
 - 🛠️ No dia a dia: **TypeScript, React, Node.js, PHP/Laravel, Python e C#**
-- 🤖 Interesses: arquitetura de sistemas, automação com IA, segurança da informação e cloud
+- 🤖 Interesses: arquitetura de sistemas, automação com IA, segurança da informação, Desenvolvimento web e desenvolvimento de software
 - 🌐 Portfólio: **[devborges.vercel.app](https://devborges.vercel.app/)**
 
 ## 🧰 Tecnologias
